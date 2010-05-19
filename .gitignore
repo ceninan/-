@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.vim/*
+!.vimrc
+!.vimperator/*
+!.vimperatorrc
+
