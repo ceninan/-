@@ -2,6 +2,6 @@ USING: namespaces tools.scaffold ;
 "Niklas Waern" developer-name set-global
 
 ! Editor integration
-USE: editors.vim
+USE: editors.gvim
 
-{ "gnome-terminal" "-e" "vim" } vim-path set-global
+! { "gnome-terminal" "-e" "vim" } vim-path set-global
